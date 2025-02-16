@@ -53,6 +53,18 @@ To start, we’ll download VirtualBox from the official website at https://www.v
 
 ![68747470733a2f2f692e696d6775722e636f6d2f6c786f6a6a68722e706e67](https://github.com/user-attachments/assets/7f029446-51e6-407b-8114-73b26d2e0159)
 
+14. Click "Install Now" to begin the installation process.
+![68747470733a2f2f692e696d6775722e636f6d2f47346f625869432e706e67](https://github.com/user-attachments/assets/1097f7ac-91cd-43dd-b2ac-3f16fe893e45)
+
+15. In the operating system selection screen, choose "Windows Server 2022 Standard Evaluation (Desktop Experience)," then click "Next" to continue.
+![68747470733a2f2f692e696d6775722e636f6d2f644b7a6f6a37352e706e67](https://github.com/user-attachments/assets/5fadbf7c-d509-4fc7-9bd6-e58de2416d90)
+
+16. Accept the terms and click "Next." In the next step, when prompted to choose the type of installation, select "Custom" to proceed.
+![68747470733a2f2f692e696d6775722e636f6d2f6a74736c3153482e706e67](https://github.com/user-attachments/assets/96bad4df-42a7-4773-9569-aae3aa17cd78)
+
+
+
+
 
 
 
