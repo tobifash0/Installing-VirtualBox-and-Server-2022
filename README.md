@@ -20,20 +20,19 @@ To start, we’ll download VirtualBox from the official website at https://www.v
 3. After filling our information, we can finally download the ISO which will be the 64-bit edition (English).
 <img width="1256" alt="Screenshot 2025-02-16 at 5 11 47 PM" src="https://github.com/user-attachments/assets/ce324dde-ceb2-4818-ade9-e27a5058d15c" />  
 4. Finally our ISO download should appear in our downloads folder.
+   <br/>
    <img width="431" alt="Screenshot 2025-02-16 at 5 43 07 PM" src="https://github.com/user-attachments/assets/c75e648d-bfbe-4d3c-8408-89f32ec1f9ab" />  
-5. After everything has finished downloading, we can launch VirtualBox and begin configuring the settings for Windows Server 2022. Once VirtualBox is open, navigate to the "Machine" tab at the top and select "New" to create a new virtual machine.
+6. After everything has finished downloading, we can launch VirtualBox and begin configuring the settings for Windows Server 2022. Once VirtualBox is open, navigate to the "Machine" tab at the top and select "New" to create a new virtual machine.
 ![image](https://github.com/user-attachments/assets/6f107815-8fb6-47e9-9b23-10232c4bacc4)  
-6. First, we’ll name our virtual machine "Windows Server 2022 Lab." Next, we’ll locate the ISO image in our Downloads folder. To do this, click the dropdown menu under "ISO Image" and select "Other." From there, we can browse to the Downloads folder and select the Windows Server ISO.
+7. First, we’ll name our virtual machine "Windows Server 2022 Lab." Next, we’ll locate the ISO image in our Downloads folder. To do this, click the dropdown menu under "ISO Image" and select "Other." From there, we can browse to the Downloads folder and select the Windows Server ISO.
 <img width="1436" alt="Screenshot 2025-02-13 at 4 36 08 PM" src="https://github.com/user-attachments/assets/b0436641-9f62-49da-b426-d1cab857e71a" />
 <br/>
-7. Next, click on "Skip Unattended Installation." Then, proceed to configure the hardware settings for the virtual machine.
-<img width="1436" alt="Screenshot 2025-02-13 at 4 36 08 PM" src="https://github.com/user-attachments/assets/5b5f3aba-0812-4b31-b4c3-020981331b7b" />
-<br/>
 8. Next, click on "Skip Unattended Installation." Then, proceed to configure the hardware settings for the virtual machine.
+<img width="1436" alt="Screenshot 2025-02-13 at 4 36 53 PM" src="https://github.com/user-attachments/assets/e5c59f8d-9434-42bb-8bea-a56e0a74668c" />
 
-<img width="1436" alt="Screenshot 2025-02-13 at 4 36 53 PM" src="https://github.com/user-attachments/assets/8c2f425a-149f-46e4-9bb7-7058c8241ee7" />
 <br/>
-9. By default, the base memory is set to 2048 MB, which should be sufficient for running the virtual machine. However, since our computer has 32 GB of RAM, we can allocate around 6 GB (or 6081 MB) for our virtual machine home lab. To check how much RAM your PC has, you can either search for "About your PC" or open Task Manager and navigate to the "Performance" tab, where the total RAM will be displayed.
+
+9. By default, the base memory is set to 2048 MB, which should be sufficient for running the virtual machine. However, we can allocate more dependomg on the PC ram for our virtual machine home lab. 
 <img width="1436" alt="Screenshot 2025-02-13 at 4 40 13 PM" src="https://github.com/user-attachments/assets/245fc460-38cd-4e82-b900-3c721babb264" />
 <br/>
 10. For the “Hard disk” configurations everything should be good, just make sure we have “Create a Virtual Hard Disk Now” then click “Finish”.
@@ -42,12 +41,18 @@ To start, we’ll download VirtualBox from the official website at https://www.v
 
 <br/>
 
-11. <img width="1436" alt="Screenshot 2025-02-13 at 4 43 12 PM" src="https://github.com/user-attachments/assets/f794ae9d-c650-4cbe-b2bc-6848021f6190" />
+11. Click Finish
+<img width="1436" alt="Screenshot 2025-02-13 at 4 43 12 PM" src="https://github.com/user-attachments/assets/f794ae9d-c650-4cbe-b2bc-6848021f6190" />
 <br/>
+
 12.Now, we’ll boot up the virtual machine by clicking the "Start" button. A prompt for the Microsoft Server Operating System Setup will appear. Click "Next," then select "Install Now" to begin the installation process.
  <img width="1436" alt="Screenshot 2025-02-13 at 4 44 01 PM" src="https://github.com/user-attachments/assets/03467cfd-e7e5-4403-8369-5d70f4fa49e0" /> 
  <br/>
-13. ![68747470733a2f2f692e696d6775722e636f6d2f6c786f6a6a68722e706e67](https://github.com/user-attachments/assets/81531755-3964-44ae-a2ef-a8941d30885f)
+13. Now, we’ll boot up the virtual machine by clicking the "Start" button. A prompt for the Microsoft Server Operating System Setup will appear. Click "Next," then select "Install Now" to begin the installation process.
+
+
+![68747470733a2f2f692e696d6775722e636f6d2f6c786f6a6a68722e706e67](https://github.com/user-attachments/assets/7f029446-51e6-407b-8114-73b26d2e0159)
+
 
 
 
