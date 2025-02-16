@@ -12,23 +12,17 @@ This repository documents a comprehensive home lab project focused on installing
 In this documentation, I will outline the initial steps of setting up my Active Directory home lab. This includes downloading and preparing the essential tools: VirtualBox and Windows Server 2022.
 
 To start, we’ll download VirtualBox from the official website at https://www.virtualbox.org/wiki/Downloads. Since I’m using a Macbook PC, I will be selecting the version for MacOS hosts.
-<img width="1435" alt="Screenshot 2025-02-16 at 4 52 26 PM" src="https://github.com/user-attachments/assets/e5bf03ca-3003-4af5-83f9-f4f37ed2a21b" />
-<br/>
+<img width="1435" alt="Screenshot 2025-02-16 at 4 52 26 PM" src="https://github.com/user-attachments/assets/e5bf03ca-3003-4af5-83f9-f4f37ed2a21b" />  
 1. Next, we’ll download Windows Server 2022 from the official Microsoft Evaluation Center at https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022.
-<img width="1435" alt="Screenshot 2025-02-16 at 4 54 15 PM" src="https://github.com/user-attachments/assets/05e4a5b7-03d0-4aca-9848-93eefa362315" />
-<br/>
+<img width="1435" alt="Screenshot 2025-02-16 at 4 54 15 PM" src="https://github.com/user-attachments/assets/05e4a5b7-03d0-4aca-9848-93eefa362315" />  
 2. To access the free trial, you’ll need to provide your information during the registration process. The trial period lasts for 180 days.
-<img width="1435" alt="Screenshot 2025-02-16 at 4 55 44 PM" src="https://github.com/user-attachments/assets/e464b041-cc5a-4c9c-b693-036f2e3bdeab" />
-<br/>
-
+<img width="1435" alt="Screenshot 2025-02-16 at 4 55 44 PM" src="https://github.com/user-attachments/assets/e464b041-cc5a-4c9c-b693-036f2e3bdeab" />  
 3. After filling our information, we can finally download the ISO which will be the 64-bit edition (English).
-<img width="1256" alt="Screenshot 2025-02-16 at 5 11 47 PM" src="https://github.com/user-attachments/assets/ce324dde-ceb2-4818-ade9-e27a5058d15c" />
-<br/>
+<img width="1256" alt="Screenshot 2025-02-16 at 5 11 47 PM" src="https://github.com/user-attachments/assets/ce324dde-ceb2-4818-ade9-e27a5058d15c" />  
 4. Finally our ISO download should appear in our downloads folder.
-<br/>   
+   <img width="431" alt="Screenshot 2025-02-16 at 5 43 07 PM" src="https://github.com/user-attachments/assets/c75e648d-bfbe-4d3c-8408-89f32ec1f9ab" />  
 5. After everything has finished downloading, we can launch VirtualBox and begin configuring the settings for Windows Server 2022. Once VirtualBox is open, navigate to the "Machine" tab at the top and select "New" to create a new virtual machine.
-![image](https://github.com/user-attachments/assets/6f107815-8fb6-47e9-9b23-10232c4bacc4)
-<br/>
+![image](https://github.com/user-attachments/assets/6f107815-8fb6-47e9-9b23-10232c4bacc4)  
 6. First, we’ll name our virtual machine "Windows Server 2022 Lab." Next, we’ll locate the ISO image in our Downloads folder. To do this, click the dropdown menu under "ISO Image" and select "Other." From there, we can browse to the Downloads folder and select the Windows Server ISO.
 <img width="1436" alt="Screenshot 2025-02-13 at 4 36 08 PM" src="https://github.com/user-attachments/assets/b0436641-9f62-49da-b426-d1cab857e71a" />
 <br/>
