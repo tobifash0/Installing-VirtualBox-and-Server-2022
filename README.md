@@ -14,11 +14,14 @@ In this documentation, I will outline the initial steps of setting up my Active 
 
 To start, we’ll download VirtualBox from the official website at https://www.virtualbox.org/wiki/Downloads. Since I’m using a Macbook PC, I will be selecting the version for MacOS hosts.
 <br>
+
 <img width="1435" alt="Screenshot 2025-02-16 at 4 52 26 PM" src="https://github.com/user-attachments/assets/e5bf03ca-3003-4af5-83f9-f4f37ed2a21b" />  
 <br>
+
 1. Next, we’ll download Windows Server 2022 from the official Microsoft Evaluation Center at https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022.
 <img width="1435" alt="Screenshot 2025-02-16 at 4 54 15 PM" src="https://github.com/user-attachments/assets/05e4a5b7-03d0-4aca-9848-93eefa362315" />
 <br>
+
 3. To access the free trial, you’ll need to provide your information during the registration process. The trial period lasts for 180 days.
    <br>
 
@@ -30,12 +33,17 @@ To start, we’ll download VirtualBox from the official website at https://www.v
 
 <img width="1256" alt="Screenshot 2025-02-16 at 5 11 47 PM" src="https://github.com/user-attachments/assets/ce324dde-ceb2-4818-ade9-e27a5058d15c" />  
 <br>
+
 7. Finally our ISO download should appear in our downloads folder.
    <br/>
+   
    <img width="431" alt="Screenshot 2025-02-16 at 5 43 07 PM" src="https://github.com/user-attachments/assets/c75e648d-bfbe-4d3c-8408-89f32ec1f9ab" />  
    <br>
+   
 8. After everything has finished downloading, we can launch VirtualBox and begin configuring the settings for Windows Server 2022. Once VirtualBox is open, navigate to the "Machine" tab at the top and select "New" to create a new virtual machine.
-![image](https://github.com/user-attachments/assets/6f107815-8fb6-47e9-9b23-10232c4bacc4)  
+   
+![68747470733a2f2f692e696d6775722e636f6d2f4678497461424b2e706e67](https://github.com/user-attachments/assets/0e31e295-990c-40bc-852c-190784ad7a4d)
+
 <br>
 
 9. First, we’ll name our virtual machine "Windows Server 2022 Lab." Next, we’ll locate the ISO image in our Downloads folder. To do this, click the dropdown menu under "ISO Image" and select "Other." From there, we can browse to the Downloads folder and select the Windows Server ISO.
@@ -125,6 +133,7 @@ To start, we’ll download VirtualBox from the official website at https://www.v
 23. Congratulations we have now successfully installed Windows Server 2022 and Virtual Box!
 <br>
 👉 Next Lab 2 : Renaming Windows Server 2022 and Installing Active Directory
+![68747470733a2f2f692e696d6775722e636f6d2f4678497461424b2e706e67](https://github.com/user-attachments/assets/bace3a92-ba94-4faf-961f-5dfdc074f2c8)
 
 
 
