@@ -50,7 +50,7 @@ To start, we’ll download VirtualBox from the official website at https://www.v
 <br>
 
 <img width="1436" alt="Screenshot 2025-02-13 at 4 36 08 PM" src="https://github.com/user-attachments/assets/b0436641-9f62-49da-b426-d1cab857e71a" />
-<br/>
+<br>
 10. Next, click on "Skip Unattended Installation." Then, proceed to configure the hardware settings for the virtual machine.
 <img width="1436" alt="Screenshot 2025-02-13 at 4 36 53 PM" src="https://github.com/user-attachments/assets/e5c59f8d-9434-42bb-8bea-a56e0a74668c" />
 
@@ -60,8 +60,9 @@ To start, we’ll download VirtualBox from the official website at https://www.v
 <br>
 
 <img width="1436" alt="Screenshot 2025-02-13 at 4 40 13 PM" src="https://github.com/user-attachments/assets/245fc460-38cd-4e82-b900-3c721babb264" />
-<br/>
+<br>
 10. For the “Hard disk” configurations everything should be good, just make sure we have “Create a Virtual Hard Disk Now” then click “Finish”.
+<br>
 
 <img width="1436" alt="Screenshot 2025-02-13 at 4 42 55 PM" src="https://github.com/user-attachments/assets/2c484ebf-6000-41c3-b2d4-c2ba4cc11d51" />
 
@@ -126,18 +127,9 @@ To start, we’ll download VirtualBox from the official website at https://www.v
 ![68747470733a2f2f692e696d6775722e636f6d2f533655714768502e706e67](https://github.com/user-attachments/assets/9028ba9b-d31f-4fe2-8d86-af4cdac1a52d)
 
 <br>
-
-<br>
-![68747470733a2f2f692e696d6775722e636f6d2f32657a417763512e706e67](https://github.com/user-attachments/assets/4a134cb4-7388-4d92-9c0c-636e3ae9d692)
-<br>
 23. Congratulations we have now successfully installed Windows Server 2022 and Virtual Box!
 <br>
 👉 Next Lab 2 : Renaming Windows Server 2022 and Installing Active Directory
-![68747470733a2f2f692e696d6775722e636f6d2f4678497461424b2e706e67](https://github.com/user-attachments/assets/bace3a92-ba94-4faf-961f-5dfdc074f2c8)
-
-
-
-
 
 
 
