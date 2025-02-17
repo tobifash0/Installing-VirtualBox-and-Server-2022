@@ -107,6 +107,7 @@ To start, we’ll download VirtualBox from the official website at https://www.v
 
 18. In this step, when prompted to choose the type of installation, select "Custom" to proceed. 
 <br>
+
 ![68747470733a2f2f692e696d6775722e636f6d2f5538373538546c2e706e67 (1)](https://github.com/user-attachments/assets/75cca7c5-108d-4d75-b424-7741e29c774b)
 
 <br>
