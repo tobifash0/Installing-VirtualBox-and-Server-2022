@@ -107,16 +107,18 @@ To start, we’ll download VirtualBox from the official website at https://www.v
 
 18. In this step, when prompted to choose the type of installation, select "Custom" to proceed. 
 <br>
-![68747470733a2f2f692e696d6775722e636f6d2f5538373538546c2e706e67 (1)](https://github.com/user-attachments/assets/70c75dc0-0d88-4d92-8cba-fbdad12fbcca)
+![68747470733a2f2f692e696d6775722e636f6d2f5538373538546c2e706e67 (1)](https://github.com/user-attachments/assets/75cca7c5-108d-4d75-b424-7741e29c774b)
 
 <br>
 
 19. Click "Next," and the installation of Windows Server will begin.
+    
 <br>
 
 ![68747470733a2f2f692e696d6775722e636f6d2f6354764e6562622e706e67 (1)](https://github.com/user-attachments/assets/46ab1bfa-f9d5-48f9-985a-4a53c3d2a470)
 <br>
 20. 
+<br>
 ![68747470733a2f2f692e696d6775722e636f6d2f4a4f42364145622e706e67 (1)](https://github.com/user-attachments/assets/0df93734-68ff-4460-ad43-4056c7826b39)
 <br>
 21. Create a password for our account “Administrator”.
