@@ -143,7 +143,7 @@ To start, we’ll download VirtualBox from the official website at https://www.v
     
 <br>
 
-👉 Next Lab 2 : [Renaming Windows Server 2022 and Installing Active Directory](https://github.com/tobifash0/Renaming-Server-2022-and-Installing-Active-Director)
+👉 Next Lab 2 : [Renaming Windows Server 2022 and Installing Active Directory](https://github.com/tobifash0/Renaming-Server-2022-and-Installing-Active-Directory)
 
 
 
