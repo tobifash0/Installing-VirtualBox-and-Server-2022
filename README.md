@@ -142,8 +142,8 @@ To start, we’ll download VirtualBox from the official website at https://www.v
 24. Congratulations we have now successfully installed Windows Server 2022 and Virtual Box!
     
 <br>
-👉 Next Lab 2 : [Renaming Windows Server 2022 and Installing Active Directory](https://github.com/tobifash0/Renaming-Server-2022-and-Installing-Active-Directory)
 
+👉 Next Lab 2 : [Renaming Windows Server 2022 and Installing Active Directory](https://github.com/tobifash0/Renaming-Server-2022-and-Installing-Active-Director)
 
 
 
